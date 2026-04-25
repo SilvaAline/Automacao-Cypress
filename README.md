@@ -108,9 +108,7 @@ cypress/
 
 ---
 
-## 🔗 Repositório
 
-Projeto disponível em: https://github.com/SilvaAline/Automacao-Cypress
 
 ---
 
