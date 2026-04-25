@@ -106,7 +106,7 @@ cypress/
 * Aplicado escopo de elementos para evitar conflitos entre componentes da página
 * Estrutura organizada para facilitar manutenção e escalabilidade
 
----
+
 
 
 
