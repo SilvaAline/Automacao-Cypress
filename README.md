@@ -1,6 +1,6 @@
-# 🚀 Projeto de Automação - Cypress + Cucumber
+#  Projeto de Automação - Cypress + Cucumber
 
-## 📋 Descrição
+##  Descrição
 
 Este projeto foi desenvolvido como parte de um teste técnico com o objetivo de validar conhecimentos em automação de testes utilizando:
 
@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte de um teste técnico com o objetivo de 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * Cypress
 * Cucumber (BDD)
@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como parte de um teste técnico com o objetivo de 
 
 ---
 
-## ⚙️ Instalação do projeto
+##  Instalação do projeto
 
 ### Pré-requisitos:
 
@@ -34,7 +34,7 @@ npm install
 
 ---
 
-## ▶️ Como executar os testes
+##  Como executar os testes
 
 ### Abrir interface do Cypress:
 
@@ -50,7 +50,7 @@ npx cypress run
 
 ---
 
-## 🌐 Cenários automatizados (WEB)
+##  Cenários automatizados (WEB)
 
 Os testes foram realizados no site:
 https://www.automationexercise.com/
@@ -73,7 +73,7 @@ https://www.automationexercise.com/
 
 ---
 
-## 🔗 Cenários automatizados (API)
+##  Cenários automatizados (API)
 
 ### ✔ GET Trello
 
@@ -87,7 +87,7 @@ Validações realizadas:
 
 ---
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 cypress/
@@ -100,7 +100,7 @@ cypress/
 
 ---
 
-## 💡 Observações
+##  Observações
 
 * Foi utilizado Cucumber para escrita dos cenários em BDD
 * Aplicado escopo de elementos para evitar conflitos entre componentes da página
@@ -114,6 +114,6 @@ Projeto disponível em: https://github.com/SilvaAline/Automacao-Cypress
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por Aline Silva
